@@ -11,14 +11,6 @@ A comprehensive, interactive HTML dashboard analyzing cost structures, margins, 
 This project demonstrates **end-to-end data analysis capabilities**: from data synthesis and visualization through interactive modeling to strategic recommendations. Built for a major bottling operation analyzing two product lines across multiple metrics.
 
 ---
-
-## Key Features
-
-✅ **Interactive Cost Analysis**
-- Brand-comparative cost analysis with real-time filters
-- Multi-metric KPI cards showing cost/unit, margin %, volume, capacity utilization
-- Drill-down into regional/product-level cost breakdowns
-
 ## Business Impact
 
 **Identified $2M+ in cost optimization opportunities** across production and pricing strategy.
@@ -27,6 +19,15 @@ Key findings:
 - 18% margin variance across product lines—root causes identified
 - Efficiency recommendations with 12-month payback
 - Pricing scenarios tested with no guesswork
+
+---
+
+## Key Features
+
+✅ **Interactive Cost Analysis**
+- Brand-comparative cost analysis with real-time filters
+- Multi-metric KPI cards showing cost/unit, margin %, volume, capacity utilization
+- Drill-down into regional/product-level cost breakdowns
 
 
 ✅ **Data Visualization**
